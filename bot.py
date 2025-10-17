@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен бота (получите у @BotFather)
-BOT_TOKEN = "8382779303:AAEw2EMcmprtXBFKN2TusH6CWqksTDk_Dk0"
+BOT_TOKEN = "8144352720:AAHSDUaIincHvEH2YEAoU5_yl32r-H2_uzs"
 
 # Инициализация базы данных
 def init_db():
